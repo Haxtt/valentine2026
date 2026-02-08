@@ -50,9 +50,89 @@ const CONFIG = {
     },
 
     // Messages that appear after they say "Yes!"
-    celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Ich freue mich auf dem 14th Febraur. Ich liebe Dich!",
+
+celebration: {
+    title: "I'm the luckiest person in the world! 🎉💝💖💝💓",
+    message: `My Love,
+
+I don’t even know where to begin, because no amount of words will ever fully explain what you mean to me but I’ll try anyway.
+
+Somehow, out of the blue, you became my favorite part of every day.
+Your name is the first thing I think about when I wake up.
+Your smile lives rent-free in my mind.
+Your laugh has this magical ability to fix bad days instantly.
+
+You walked into my life and quietly turned everything brighter.
+Colors feel warmer.
+Music sounds better.
+Time feels different when I’m with you.
+
+You didn’t just become someone I like…
+You became someone I care about deeply.
+Someone I choose to love.
+Someone I want to grow with.
+
+I love the way you are.
+Not a perfect version.
+Not a filtered version.
+The real you.
+
+I love your little habits.
+Your random thoughts.
+The way you get excited about small things.
+The way you talk about what you love.
+The way you make me feel safe just by existing.
+
+You make me want to be better, not because you want it, but because you inspire me.
+
+When I imagine my future, you’re in it.
+Not just as a passing moment.
+Not just as a memory.
+But as my partner.
+My person.
+My Valentine.
+
+I want the boring days with you.
+The lazy mornings.
+The late-night talks.
+The inside jokes no one else understands.
+The “I love you” texts.
+The comfort.
+The chaos.
+All of it.
+
+If love is choosing someone over and over again, even on the hard days
+Then I choose you.
+Again.
+And again.
+And again.
+
+You don’t have to be perfect for me.
+You don’t have to impress me.
+You don’t have to prove anything.
+You already have my heart.
+
+So this little website
+This little project
+This little question
+The time spent making this website,
+
+It’s simple.
+But the feeling behind it isn’t.
+
+Because what I’m really asking is:
+
+Will you be my Valentine?
+Will you be my person?
+
+Because I already know…
+You’re mine.
+And I hope I’m yours. ❤️
+
+Forever yours,
+With all my love,
+Haxton`,
+
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
