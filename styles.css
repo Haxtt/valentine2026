@@ -270,3 +270,28 @@ h2 {
         display: none;
     }
 }
+
+/* 💖 PHOTO COLLAGE */
+.collage {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  max-width: 380px;
+  margin: 20px auto;
+}
+
+.collage img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+  animation: floatPhoto 4s ease-in-out infinite;
+}
+
+@keyframes floatPhoto {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+  100% { transform: translateY(0); }
+}
+
